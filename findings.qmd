@@ -1,0 +1,33 @@
+---
+title: "Recent Findings"
+---
+
+
+#### Changes in personality predict life outcomes 
+Personality traits change over time, and these changes are related to subsequent life outcomes. Change associations suggest more short-term and proximal processes are responsible compared to cumulative processes. However, effect sizes are smaller than trait levels, underscoring that cumulative processes of trait levels are mostly responsible for personality's association with life outcomes. 
+
+- Wright, A. J., & Jackson, J. J. (2023). Do changes in personality predict life outcomes? Journal of Personality and Social Psychology. Advance online publication. https://doi.org/10.1037/pspp0000472
+
+
+
+#### Goals of your partner influence your life outcome
+Relationships often involve trade offs between the wants and wishes of the dyad. These trade offs can be seen when one spouses career comes before the other, resulting in fewer career advancements for the other spouse.  We find evidence that life goals are associated with both one's career and health outcomes and one's partner's health and career outcomes. 
+
+- *Wright, A. J., #Litwin, A., & Jackson, J. J. (in press) Compensatory couple effects: How a spouse’s life goals impact one’s own career and health outcomes Journal of Research in Personality
+
+
+
+
+#### People differ in how consistent they are over long time spans
+Personality is largely consistent over decades, though change is possible. However, this is usually discussed at the aggregate level. We find evidence that some people are highly consistent whereas others are less consistent. These individual differences in consistency were assessed over multiple waves, suggesting that the reasons people were inconsistent or consistent weren't entirely environmental but rather are a component of the individual.  
+
+- *Wright, A. J., & Jackson, J. J. (in press). Are people consistently consistent in their personality? A longitudinal, person-centered test. Journal of Personality and Social Psychology. https://psyarxiv.com/8vt3j/
+
+
+
+
+#### Antecedents of behavior differ across people 
+The reasons why someone feels lonely or procrastinates was found to vary extensively across people. Differences in the antecdendents to behavior suggest that some people are more situationally influenced, others time, whereas others are more influenced by their personality. Findings suggest we need to understand people at an individual, idiographic level rather than treating personality processes as homogenous.  
+
+- *Beck, E. D., & Jackson, J. J. (in press). Personalized Behavior Prediction: An Idiographic Person-Situation Test. Psychological Science.  https://doi.org/10.31234/osf.io/syhw5
+

@@ -1,0 +1,18 @@
+# The Personality Measurement and Development Lab
+
+Josh Jackson is the Rosenzweig Associate Professor in Personality Science at Washington University in St. Louis and directs the Personality Measurement and Development Lab.
+
+The lab investigates how people differ from one another, otherwise known as "individual differences" or "personality". Personality can be thought of as the relatively consistent thoughts, feelings, behaviors that make a person unique.
+
+Everyone has a personality, and they bring it with them all day every day, shaping their world. The lab is guided by addressing the following three broad questions:
+
+1\. What is the optimal way to measure personality?
+
+2\. How consistent or malleable is personality?
+
+3\. What are the processes by which personality influences important life outcomes?
+
+Please see  [Recent Findings](findings.qmd) and [Current Projects ](projects.qmd) pages for more information about the lab. 
+
+For the most up to date publications, please see [Josh's Google Scholar page](https://scholar.google.com/citations?user=YdkoYF8AAAAJ&hl=en)
+

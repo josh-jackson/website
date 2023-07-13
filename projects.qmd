@@ -1,0 +1,15 @@
+---
+title: "Projects"
+---
+
+## Big Questions we are grappling with recently
+
+-   *How best can we measure what is unique to you i.e., idiographic personality?* One way we are looking at this is by validating a Gaussian Process IRT model for intensive longitudinal data. 
+
+- *How variable is cognition in everyday life?* Fluctuations in cognition are linked to numerous outcomes above and beyond average levels of cognition. We are investigating why these fluctuations occur. 
+
+-   *Does personality change in response to different situations?* We have a number of studies examining how situations influence or constrain the expression of personality.    
+
+-   *Do early life experiences impact where you end up in life?* We are investigating early life experiences that lead to life outcomes such as educational attainment, occupational success, relationship success, and a longer life. 
+
+-   *How consistent are environments across the lifespan?* We know that personality is consistent, but how consistent is our everday surroundings?  
