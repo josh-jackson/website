@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+website:
+  sidebar: false
 ---
 
 ## Big Questions we are grappling with recently
