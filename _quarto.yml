@@ -21,6 +21,8 @@ format:
     theme: lux
     css: styles.css
     toc: false
-
+    
+margin-header: |
+  ![Logo image](/img/logo.png)
 
 
