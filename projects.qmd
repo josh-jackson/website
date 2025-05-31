@@ -6,7 +6,7 @@ website:
 
 ## Big Questions we are grappling with recently
 
--   *How best can we measure what is unique to you i.e., idiographic personality?* One way we are looking at this is by validating a Gaussian Process IRT model for intensive longitudinal data. 
+-   *How best can we measure what is unique to you i.e., idiographic personality?* One way we are looking at this is by validating a Gaussian Process IRT model for intensive longitudinal data. Ask Muchen for more details
 
 - *How variable is cognition in everyday life?* Fluctuations in cognition are linked to numerous outcomes above and beyond average levels of cognition. We are investigating why these fluctuations occur. 
 
