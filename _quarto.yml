@@ -23,6 +23,6 @@ format:
     toc: false
     
 margin-header: |
-  ![Logo image](/img/logo.png)
+  ![](peas.png)
 
 
